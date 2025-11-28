@@ -96,13 +96,14 @@ Order history & analytics
 User profile page
 
 Product reviews & ratings
+
 ---
 ## 🤝 Contributing
 
 Contributions, issues, and suggestions are welcome!
 
 ---
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
 Haris Mughal
-GitHub: https://github.com/haris-mughal
+LinkedIn: [iamharisahsan](https://www.linkedin.com/in/iamharisahsan/)
