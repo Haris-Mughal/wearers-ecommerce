@@ -64,7 +64,7 @@ wearers/
 Clone the repo:
 
 ```
-git clone https://github.com/yourusername/wearers.git
+git clone https://github.com/Haris-Mughal/wearers-ecommerce.git
 cd wearers
 ```
 Install dependencies:
@@ -77,25 +77,14 @@ Start development server:
 ```
 npm run dev
 ```
-If backend exists, run it separately:
-
-```
-cd server
-npm install
-npm start
-```
 
 ## 📈 Future Improvements
 
-Payment Gateway Integration (Stripe / Razorpay)
-
-Admin Dashboard for product management
-
-Order history & analytics
-
-User profile page
-
-Product reviews & ratings
+- Payment Gateway Integration (Stripe / Razorpay)
+- Admin Dashboard for product management
+- Order history & analytics
+- User profile page
+- Product reviews & ratings
 
 ---
 ## 🤝 Contributing
@@ -105,5 +94,5 @@ Contributions, issues, and suggestions are welcome!
 ---
 ## 🧑‍💻 Author
 
-Haris Mughal
+**Haris Mughal**
 LinkedIn: [iamharisahsan](https://www.linkedin.com/in/iamharisahsan/)
